@@ -8,20 +8,20 @@
 
 /* Begin PBXBuildFile section */
 		D2E6AAA22BC60D3700BD1B2E /* StanfordLectureApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2E6AAA12BC60D3700BD1B2E /* StanfordLectureApp.swift */; };
-		D2E6AAA42BC60D3700BD1B2E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2E6AAA32BC60D3700BD1B2E /* ContentView.swift */; };
+		D2E6AAA42BC60D3700BD1B2E /* EmojiMemoryGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2E6AAA32BC60D3700BD1B2E /* EmojiMemoryGameView.swift */; };
 		D2E6AAA62BC60D3900BD1B2E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2E6AAA52BC60D3900BD1B2E /* Assets.xcassets */; };
 		D2E6AAA92BC60D3900BD1B2E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2E6AAA82BC60D3900BD1B2E /* Preview Assets.xcassets */; };
-		D2E6AAB02BCFCBED00BD1B2E /* MemorizeGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2E6AAAF2BCFCBED00BD1B2E /* MemorizeGame.swift */; };
+		D2E6AAB02BCFCBED00BD1B2E /* MemoryGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2E6AAAF2BCFCBED00BD1B2E /* MemoryGame.swift */; };
 		D2E6AAB22BCFCCE600BD1B2E /* EmojiMemoryGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2E6AAB12BCFCCE600BD1B2E /* EmojiMemoryGame.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		D2E6AA9E2BC60D3700BD1B2E /* StanfordLecture.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StanfordLecture.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2E6AAA12BC60D3700BD1B2E /* StanfordLectureApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StanfordLectureApp.swift; sourceTree = "<group>"; };
-		D2E6AAA32BC60D3700BD1B2E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		D2E6AAA32BC60D3700BD1B2E /* EmojiMemoryGameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiMemoryGameView.swift; sourceTree = "<group>"; };
 		D2E6AAA52BC60D3900BD1B2E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D2E6AAA82BC60D3900BD1B2E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		D2E6AAAF2BCFCBED00BD1B2E /* MemorizeGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemorizeGame.swift; sourceTree = "<group>"; };
+		D2E6AAAF2BCFCBED00BD1B2E /* MemoryGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoryGame.swift; sourceTree = "<group>"; };
 		D2E6AAB12BCFCCE600BD1B2E /* EmojiMemoryGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiMemoryGame.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -55,10 +55,10 @@
 		D2E6AAA02BC60D3700BD1B2E /* StanfordLecture */ = {
 			isa = PBXGroup;
 			children = (
-				D2E6AAAF2BCFCBED00BD1B2E /* MemorizeGame.swift */,
+				D2E6AAAF2BCFCBED00BD1B2E /* MemoryGame.swift */,
 				D2E6AAB12BCFCCE600BD1B2E /* EmojiMemoryGame.swift */,
 				D2E6AAA12BC60D3700BD1B2E /* StanfordLectureApp.swift */,
-				D2E6AAA32BC60D3700BD1B2E /* ContentView.swift */,
+				D2E6AAA32BC60D3700BD1B2E /* EmojiMemoryGameView.swift */,
 				D2E6AAA52BC60D3900BD1B2E /* Assets.xcassets */,
 				D2E6AAA72BC60D3900BD1B2E /* Preview Content */,
 			);
@@ -143,9 +143,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D2E6AAA42BC60D3700BD1B2E /* ContentView.swift in Sources */,
+				D2E6AAA42BC60D3700BD1B2E /* EmojiMemoryGameView.swift in Sources */,
 				D2E6AAA22BC60D3700BD1B2E /* StanfordLectureApp.swift in Sources */,
-				D2E6AAB02BCFCBED00BD1B2E /* MemorizeGame.swift in Sources */,
+				D2E6AAB02BCFCBED00BD1B2E /* MemoryGame.swift in Sources */,
 				D2E6AAB22BCFCCE600BD1B2E /* EmojiMemoryGame.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
