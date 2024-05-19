@@ -6,7 +6,7 @@
 //
 
 extension Array {
-    var only: Element? {
-        count == 1 ? first : nil
-    }
+  var only: Element? {
+    count == 1 ? first : nil
+  }
 }

@@ -70,9 +70,9 @@
 				D2EBAF962BD1FB0D00D12B0D /* Array+.swift */,
 				D24A14B02BF8EEA100D512BE /* AspectVGrid.swift */,
 				D24A14B22BF9A0AC00D512BE /* CardView.swift */,
+				D24A14B42BF9B84900D512BE /* Pie.swift */,
 				D2E6AAA52BC60D3900BD1B2E /* Assets.xcassets */,
 				D2E6AAA72BC60D3900BD1B2E /* Preview Content */,
-				D24A14B42BF9B84900D512BE /* Pie.swift */,
 			);
 			path = StanfordLecture;
 			sourceTree = "<group>";
